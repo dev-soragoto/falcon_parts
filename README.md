@@ -1,6 +1,6 @@
 # falcon_parts
 
-By using the parts from this project to replace the original parts of the keyboard, the 403080 battery (about 1300mAh) can be installed in the keyboard.
+By using the parts from this project to replace the original parts of the keyboard, the 403080 battery (about 1300 - 1500 mAH) can be installed in the keyboard.
 
 ## tips
 
@@ -8,7 +8,7 @@ You can only use right parts to replace, However there is a possibility that the
 
 ## warning 
 
-he model in the Spratron folder has a tolerance of 0.2mm to electrostatic spraying , but not been validated.
+The model in the Spratron folder has a tolerance of 0.2mm to electrostatic spraying
 
 ## pictures
 
